@@ -1,0 +1,9 @@
+{
+  "name": "clicker",
+  "description": "a remote control for chromium browsers",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html"
+  }
+}
